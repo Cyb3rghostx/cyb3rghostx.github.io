@@ -1,0 +1,45 @@
+.bg-darkTwo {
+    background-color: #242526;
+}
+
+.bg-darkThree {
+    background-color: #18191A;
+}
+
+.roundedStyle {
+    border: 2px solid white;
+}
+
+.marginTPerso {
+    margin-top: 5em !important;
+}
+
+.link {
+    text-decoration: none;
+    color: white;
+    font-size: 1.5em;
+}
+
+.linkWrite {
+    text-decoration: none;
+    color: white;
+}
+
+#footer {
+    bottom: 0;
+    width: 100%;
+    position: absolute;
+    height: 60px;
+}
+
+#footerProject {
+    bottom: 0;
+    width: 100%;
+    position: relative;
+    height: 60px;
+    padding-top: 0.1em;
+}
+
+.footer-block {
+    margin: 20px 0;
+  }
